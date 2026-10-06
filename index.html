@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <title>Open Wall</title>
+    <meta name="author" content="Pablo Pérez (@pablopsoto)" />
+    <meta name="description" content="The birth of modern art on one endless wall: 10,000 public-domain paintings, prints and drawings. Re-hang it by colour or by time." />
+    <meta name="theme-color" content="#f4f4f2" />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' fill='%23f4f4f2'/%3E%3Crect x='3' y='3' width='6' height='8' fill='%230c0c0c'/%3E%3Crect x='10' y='6' width='3' height='7' fill='%23e4572e'/%3E%3C/svg%3E" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700;800&family=Geist+Mono:wght@400;500&display=swap" />
+  </head>
+  <body>
+    <canvas id="wall" aria-label="A wall of paintings. Drag to move, scroll to zoom, click a painting to look closer."></canvas>
+    <div id="labels" aria-hidden="true"></div>
+
+    <header class="top">
+      <a class="mark" id="home" href="/" aria-label="Open Wall, back to the start"><b>Open Wall</b> <span>Historic public-domain art</span></a>
+      <nav id="kinds" aria-label="Medium">
+        <button type="button" data-kind="all" aria-pressed="true">All <span></span></button>
+        <button type="button" data-kind="Painting" aria-pressed="false">Paintings <span></span></button>
+        <button type="button" data-kind="Print" aria-pressed="false">Prints <span></span></button>
+        <button type="button" data-kind="Drawing" aria-pressed="false">Drawings <span></span></button>
+      </nav>
+      <p id="artist-chip" hidden><span class="chip-label">Artist</span><b></b><span></span><button type="button" aria-label="Show all artists">×</button></p>
+      <div class="top-actions">
+        <button type="button" id="open-search" class="ghost">Search <kbd>/</kbd></button>
+        <button type="button" class="ghost" popovertarget="about">About</button>
+      </div>
+    </header>
+
+    <div id="intro">
+      <p class="intro-meta"><span><span data-count>3,000</span> works</span><span>Paintings, prints, drawings</span><span>Public domain</span><span data-span>1860 — 1930</span></p>
+      <p class="intro-line">The birth of modern art on an endless wall. Re-hang it by colour or by time, and step into any work.</p>
+      <h1>Open Wall<small class="by">@pablopsoto</small></h1>
+    </div>
+
+    <nav id="hangs" aria-label="Hang the collection">
+      <button type="button" data-hang="spectrum" aria-pressed="true"><span>01</span>Spectrum</button>
+      <button type="button" data-hang="chronology" aria-pressed="false"><span>02</span>Time</button>
+    </nav>
+    <p class="hint" aria-hidden="true">Drag — Zoom — Click a work</p>
+
+    <div id="hover" aria-hidden="true"></div>
+
+    <div class="panel-tools" id="panel-tools">
+      <button type="button" class="p-prev" aria-label="Previous work"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M10 3.5 5.5 8l4.5 4.5" /></svg></button>
+      <button type="button" class="p-next" aria-label="Next work"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M6 3.5 10.5 8 6 12.5" /></svg></button>
+      <button type="button" class="p-close" aria-label="Close">Close <kbd>esc</kbd></button>
+    </div>
+    <aside id="panel" aria-label="Work">
+      <button type="button" class="sheet-grip" aria-expanded="false" aria-controls="panel-body" aria-label="Show details"><span></span></button>
+      <div class="panel-body" id="panel-body"></div>
+    </aside>
+
+    <dialog id="search" aria-label="Search the collection">
+      <input type="search" placeholder="Artist or work…" autocomplete="off" spellcheck="false" />
+      <ol></ol>
+    </dialog>
+
+    <div id="about" popover>
+      <h2>About</h2>
+      <p>Every work here is in the public domain. Open access means out of copyright, so roughly before 1931; this room hangs the modern end of that window: paintings from 1860, prints and drawings from 1880. They come from the open-access collections of seven museums: the <a href="https://openaccess.clevelandart.org/" target="_blank" rel="noopener">Cleveland Museum of Art</a>, the <a href="https://www.nga.gov/open-access-images.html" target="_blank" rel="noopener">National Gallery of Art</a>, <a href="https://open.smk.dk/" target="_blank" rel="noopener">SMK, the National Gallery of Denmark</a>, the <a href="https://sammlung.belvedere.at/" target="_blank" rel="noopener">Belvedere in Vienna</a> (photographs CC BY-SA 4.0), the <a href="https://data.rijksmuseum.nl/" target="_blank" rel="noopener">Rijksmuseum</a>, the <a href="https://www.kansallisgalleria.fi/en" target="_blank" rel="noopener">Finnish National Gallery</a> and <a href="https://www.nationalmuseum.se/en" target="_blank" rel="noopener">Nationalmuseum in Stockholm</a>.</p>
+      <p class="credit">Designed and built by <b>Pablo Pérez</b> — <a href="https://www.instagram.com/pablopsoto/" target="_blank" rel="noopener">@pablopsoto</a></p>
+      <p class="keys"><kbd>1</kbd> <kbd>2</kbd> hang · <kbd>←</kbd> <kbd>→</kbd> next painting · <kbd>/</kbd> search · <kbd>esc</kbd> step back</p>
+    </div>
+
+    <p class="failed-note">The collection couldn't be loaded. Please try again in a moment.</p>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

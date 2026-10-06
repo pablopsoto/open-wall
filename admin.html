@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <title>Open Wall — Curator</title>
+    <meta name="author" content="Pablo Pérez (@pablopsoto)" />
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="theme-color" content="#f4f4f2" />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' fill='%230c0c0c'/%3E%3Crect x='3' y='3' width='6' height='8' fill='%23f4f4f2'/%3E%3Crect x='10' y='6' width='3' height='7' fill='%23e4572e'/%3E%3C/svg%3E" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700;800&family=Geist+Mono:wght@400;500&display=swap" />
+  </head>
+  <body>
+    <main id="login" class="login" hidden>
+      <form>
+        <p class="eyebrow">Open Wall</p>
+        <h1>Curator</h1>
+        <label>
+          <span>Password</span>
+          <input type="password" name="password" autocomplete="current-password" required autofocus />
+        </label>
+        <button type="submit">Enter</button>
+        <p class="error" role="alert"></p>
+      </form>
+    </main>
+
+    <main id="app" class="app" hidden>
+      <header class="bar">
+        <p class="brand"><b>Open Wall</b> <span>Curator</span></p>
+        <p class="stats" id="stats"></p>
+        <div class="bar-actions">
+          <label class="switch" title="Works you haven't reviewed yet still hang on the wall">
+            <input type="checkbox" id="unreviewed" />
+            <span>Unreviewed works hang</span>
+          </label>
+          <a class="ghost" href="/" target="_blank">View wall ↗</a>
+          <button type="button" class="ghost" id="logout">Sign out</button>
+        </div>
+      </header>
+
+      <nav class="filters" aria-label="Filters">
+        <div class="seg view" data-filter="view">
+          <button type="button" data-v="swipe" aria-pressed="true">Swipe</button>
+          <button type="button" data-v="grid" aria-pressed="false">Grid</button>
+        </div>
+        <div class="seg" data-filter="queue">
+          <button type="button" data-v="todo" aria-pressed="true">To review</button>
+          <button type="button" data-v="yes" aria-pressed="false">On the wall</button>
+          <button type="button" data-v="no" aria-pressed="false">Off the wall</button>
+          <button type="button" data-v="all" aria-pressed="false">All</button>
+        </div>
+        <div class="seg" data-filter="source">
+          <button type="button" data-v="all" aria-pressed="true">All museums</button>
+          <button type="button" data-v="cma" aria-pressed="false">Cleveland</button>
+          <button type="button" data-v="nga" aria-pressed="false">NGA</button>
+          <button type="button" data-v="smk" aria-pressed="false">SMK</button>
+          <button type="button" data-v="blv" aria-pressed="false">Belvedere</button>
+          <button type="button" data-v="rkm" aria-pressed="false">Rijks</button>
+          <button type="button" data-v="fng" aria-pressed="false">Finland</button>
+          <button type="button" data-v="nms" aria-pressed="false">Stockholm</button>
+        </div>
+        <div class="seg" data-filter="type">
+          <button type="button" data-v="all" aria-pressed="true">All media</button>
+          <button type="button" data-v="Painting" aria-pressed="false">Paintings</button>
+          <button type="button" data-v="Print" aria-pressed="false">Prints</button>
+          <button type="button" data-v="Drawing" aria-pressed="false">Drawings</button>
+        </div>
+      </nav>
+
+      <section class="deck" id="deck" aria-live="polite"></section>
+      <section class="grid" id="grid" hidden></section>
+
+      <footer class="controls">
+        <button type="button" class="act no" id="no" aria-label="Off the wall">
+          <span class="key">←</span><span>Off</span>
+        </button>
+        <button type="button" class="act undo" id="undo" aria-label="Undo"><span class="key">Z</span><span>Undo</span></button>
+        <button type="button" class="act skip" id="skip" aria-label="Skip"><span class="key">↑</span><span>Skip</span></button>
+        <button type="button" class="act yes" id="yes" aria-label="On the wall">
+          <span>On</span><span class="key">→</span>
+        </button>
+      </footer>
+      <p class="toast" id="toast" role="status"></p>
+      <dialog class="preview" id="preview">
+        <div class="pv-art"><img alt="" /></div>
+        <div class="pv-meta">
+          <h2></h2>
+          <p class="who"></p>
+          <p class="tags"></p>
+          <div class="pv-actions">
+            <button type="button" class="act no" data-verdict="0"><span>Off the wall</span></button>
+            <button type="button" class="act yes" data-verdict="1"><span>On the wall</span></button>
+          </div>
+          <div class="pv-nav">
+            <button type="button" class="ghost" data-step="-1">← Previous</button>
+            <button type="button" class="ghost" data-close>Close <kbd>esc</kbd></button>
+            <button type="button" class="ghost" data-step="1">Next →</button>
+          </div>
+        </div>
+      </dialog>
+    </main>
+
+    <script type="module" src="/src/admin/admin.ts"></script>
+  </body>
+</html>

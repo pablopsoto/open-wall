@@ -1,0 +1,1176 @@
+{
+ "rule": "Portrait paintings (by title, the Finnish National Gallery's portrait tag, or a title that is just a sitter's name) darker than 0.25 mean lightness; works the curator approved, the top-20 famous artists and each collection's key painters kept.",
+ "count": 195,
+ "works": [
+  {
+   "key": "blv:3796",
+   "title": "Damenbildnis",
+   "artist": "Heinrich von Angeli",
+   "lum": 0.199
+  },
+  {
+   "key": "blv:4011",
+   "title": "Auguste Granitsch",
+   "artist": "Hans Canon",
+   "lum": 0.142
+  },
+  {
+   "key": "blv:4777",
+   "title": "Mathilde Stern, geb. Porges",
+   "artist": "Anton Romako",
+   "lum": 0.222
+  },
+  {
+   "key": "blv:5904",
+   "title": "Selbstporträt mit Pinsel in der Hand",
+   "artist": "Friedrich von Amerling",
+   "lum": 0.166
+  },
+  {
+   "key": "blv:7531",
+   "title": "Selbstbildnis",
+   "artist": "Karl Köpping",
+   "lum": 0.18
+  },
+  {
+   "key": "blv:7546",
+   "title": "Selbstporträt",
+   "artist": "Josef Matthäus Aigner",
+   "lum": 0.238
+  },
+  {
+   "key": "blv:9048",
+   "title": "Selbstporträt mit Palette",
+   "artist": "Friedrich von Amerling",
+   "lum": 0.148
+  },
+  {
+   "key": "blv:9304",
+   "title": "Franz Dangl in Uniform",
+   "artist": "Koloman Moser",
+   "lum": 0.157
+  },
+  {
+   "key": "blv:9454",
+   "title": "Selbstbildnis",
+   "artist": "Fritz Rojka",
+   "lum": 0.136
+  },
+  {
+   "key": "blv:10647",
+   "title": "Herrenbildnis",
+   "artist": "Ferdinand Kitt",
+   "lum": 0.212
+  },
+  {
+   "key": "blv:10653",
+   "title": "Damenbildnis",
+   "artist": "Wilhelm Thöny",
+   "lum": 0.231
+  },
+  {
+   "key": "blv:11374",
+   "title": "Marie von Gerl (I)",
+   "artist": "Ferdinand Matthias Zerlacher",
+   "lum": 0.19
+  },
+  {
+   "key": "blv:11385",
+   "title": "Marie Gerl (II)",
+   "artist": "Ferdinand Matthias Zerlacher",
+   "lum": 0.203
+  },
+  {
+   "key": "blv:13131",
+   "title": "Damenporträt",
+   "artist": "Johann Baptist Reiter",
+   "lum": 0.243
+  },
+  {
+   "key": "blv:13144",
+   "title": "Selbstbildnis an der Staffelei",
+   "artist": "Maria Wunsch",
+   "lum": 0.129
+  },
+  {
+   "key": "blv:13176",
+   "title": "Damenbildnis",
+   "artist": "Eduard Ritter von Engerth",
+   "lum": 0.212
+  },
+  {
+   "key": "blv:13178",
+   "title": "Selbstbildnis",
+   "artist": "Franz Schrotzberg",
+   "lum": 0.137
+  },
+  {
+   "key": "blv:15443",
+   "title": "Selbstporträt mit 60 Jahren",
+   "artist": "Johann Baptist Reiter",
+   "lum": 0.23
+  },
+  {
+   "key": "blv:15617",
+   "title": "Elsa Galafrés",
+   "artist": "Otto Friedrich",
+   "lum": 0.22
+  },
+  {
+   "key": "blv:17126",
+   "title": "August Schaeffer",
+   "artist": "Wilhelm A. Vita",
+   "lum": 0.239
+  },
+  {
+   "key": "blv:17857",
+   "title": "Gräfin Szápáry",
+   "artist": "Franz Schrotzberg",
+   "lum": 0.214
+  },
+  {
+   "key": "blv:18791",
+   "title": "Selbstporträt",
+   "artist": "Anton Einsle",
+   "lum": 0.232
+  },
+  {
+   "key": "blv:19064",
+   "title": "Selbstporträt",
+   "artist": "Hans Canon",
+   "lum": 0.101
+  },
+  {
+   "key": "blv:19122",
+   "title": "Dr. Stanislaus Ritter von Madeyski",
+   "artist": "Julian Falat",
+   "lum": 0.174
+  },
+  {
+   "key": "blv:19123",
+   "title": "Paul Gautsch Freiherr von Frankenthurn",
+   "artist": "Sigmund L'Allemand",
+   "lum": 0.146
+  },
+  {
+   "key": "blv:19125",
+   "title": "Carl Fiedler",
+   "artist": "Wilhelm A. Vita",
+   "lum": 0.203
+  },
+  {
+   "key": "blv:19128",
+   "title": "Sigmund Conrad Freiherr von Eybesfeld",
+   "artist": "Sigmund L'Allemand",
+   "lum": 0.176
+  },
+  {
+   "key": "blv:19130",
+   "title": "Anton Hye von Glunek",
+   "artist": "Christian Griepenkerl",
+   "lum": 0.174
+  },
+  {
+   "key": "blv:19134",
+   "title": "Dr. Joseph Alexander Freiherr von Helfert",
+   "artist": "Christian Griepenkerl",
+   "lum": 0.199
+  },
+  {
+   "key": "blv:19136",
+   "title": "Richard Graf Bienerth-Schmerling",
+   "artist": "John Quincy Adams",
+   "lum": 0.176
+  },
+  {
+   "key": "blv:19262",
+   "title": "Ferdinand Freiherr von Hochstetter",
+   "artist": "Franz Rumpler",
+   "lum": 0.216
+  },
+  {
+   "key": "blv:19279",
+   "title": "Peter Ritter von Tunner",
+   "artist": "Rudolf Hausleithner",
+   "lum": 0.1
+  },
+  {
+   "key": "blv:19420",
+   "title": "Selbstbildnis",
+   "artist": "Anton Müller",
+   "lum": 0.225
+  },
+  {
+   "key": "blv:19778",
+   "title": "Selbstporträt mit Zylinder",
+   "artist": "Josef Engelhart",
+   "lum": 0.226
+  },
+  {
+   "key": "blv:19791",
+   "title": "Maximilian Baron von Washington",
+   "artist": "Julius Victor Berger",
+   "lum": 0.12
+  },
+  {
+   "key": "blv:28815",
+   "title": "Sigmund Trebitsch",
+   "artist": "Heinrich von Angeli",
+   "lum": 0.101
+  },
+  {
+   "key": "blv:28916",
+   "title": "Dr. Eugen Hauenschield-Bauer Freiherr von Przerab",
+   "artist": "Viktor Stauffer",
+   "lum": 0.12
+  },
+  {
+   "key": "blv:34406",
+   "title": "Karl Siegmund Graf von Hohenwart",
+   "artist": "Sigmund L'Allemand",
+   "lum": 0.16
+  },
+  {
+   "key": "blv:36441",
+   "title": "Porträt Professor Edmund von Hellmer",
+   "artist": "Emanuel Baschny",
+   "lum": 0.095
+  },
+  {
+   "key": "blv:41743",
+   "title": "Porträt eines Mannes",
+   "artist": "Julius Zimpel jun.",
+   "lum": 0.205
+  },
+  {
+   "key": "blv:47295",
+   "title": "Selbstporträt",
+   "artist": "Karl von Blaas",
+   "lum": 0.153
+  },
+  {
+   "key": "blv:67422",
+   "title": "Bernhard Freiherr von Wüllerstorf-Urbair",
+   "artist": "Christian Griepenkerl",
+   "lum": 0.158
+  },
+  {
+   "key": "blv:67425",
+   "title": "Bildnis eines alten Mannes",
+   "artist": "Clementine von Wagner",
+   "lum": 0.101
+  },
+  {
+   "key": "blv:101831",
+   "title": "Adolf Fürst Auersperg",
+   "artist": "Eugen Felix",
+   "lum": 0.235
+  },
+  {
+   "key": "blv:101834",
+   "title": "Dr. Karl Stremayr",
+   "artist": "Johann Victor Krämer",
+   "lum": 0.138
+  },
+  {
+   "key": "blv:102997",
+   "title": "Johann Freiherr von Chlumecký",
+   "artist": "Johann Victor Krämer",
+   "lum": 0.219
+  },
+  {
+   "key": "blv:113720",
+   "title": "Elisabeth von Nast-Kolb, geb. Hardegg",
+   "artist": "Anton Romako",
+   "lum": 0.187
+  },
+  {
+   "key": "blv:140603",
+   "title": "Selbstbildnis mit Zigarette",
+   "artist": "Anselm Feuerbach",
+   "lum": 0.18
+  },
+  {
+   "key": "cma:109971",
+   "title": "Head of a Girl",
+   "artist": null,
+   "lum": 0.186
+  },
+  {
+   "key": "cma:125090",
+   "title": "Portrait of Mr. C.",
+   "artist": "Max Bohm",
+   "lum": 0.148
+  },
+  {
+   "key": "cma:142018",
+   "title": "Frederic W. Lincoln, Jr.",
+   "artist": "James Harvey Young",
+   "lum": 0.211
+  },
+  {
+   "key": "cma:147505",
+   "title": "Portrait of Franklin H. Delano",
+   "artist": "Eastman Johnson",
+   "lum": 0.104
+  },
+  {
+   "key": "cma:148967",
+   "title": "Young Woman with a Mandolin, Portrait of Louison Köhler",
+   "artist": "François Bonvin",
+   "lum": 0.208
+  },
+  {
+   "key": "cma:149587",
+   "title": "Souvenir of an \"International Ball\" (Portrait of Miss Kathleen Bruce)",
+   "artist": "Charles Hasslewood Shannon",
+   "lum": 0.233
+  },
+  {
+   "key": "cma:150014",
+   "title": "Self-Portrait with Raphael de Ochoa",
+   "artist": "Jacques-Émile Blanche",
+   "lum": 0.238
+  },
+  {
+   "key": "cma:150016",
+   "title": "Portrait of Jean Léglise, Merchant, Mayor of Saint-Martin-de-Seignanx",
+   "artist": "Léon Bonnat",
+   "lum": 0.132
+  },
+  {
+   "key": "cma:150030",
+   "title": "Armand Berton",
+   "artist": "Eugène Carrière",
+   "lum": 0.155
+  },
+  {
+   "key": "cma:150055",
+   "title": "Self-Portrait",
+   "artist": "Armand Guillaumin",
+   "lum": 0.193
+  },
+  {
+   "key": "cma:150056",
+   "title": "Portrait of a Woman",
+   "artist": "Jean-Jacques Henner",
+   "lum": 0.156
+  },
+  {
+   "key": "cma:151969",
+   "title": "Mary Walker Waugh",
+   "artist": "William Holman Hunt",
+   "lum": 0.189
+  },
+  {
+   "key": "cma:168448",
+   "title": "Albert Wolff in His Study",
+   "artist": "Jules Bastien-Lepage",
+   "lum": 0.136
+  },
+  {
+   "key": "fng:385435",
+   "title": "Self-Portrait",
+   "artist": "Adolf von Becker",
+   "lum": 0.205
+  },
+  {
+   "key": "fng:388074",
+   "title": "Faitful Servant",
+   "artist": "Nathalie Martinau",
+   "lum": 0.242
+  },
+  {
+   "key": "fng:390660",
+   "title": "Head of a Woman",
+   "artist": "Juho Forsell",
+   "lum": 0.181
+  },
+  {
+   "key": "fng:390743",
+   "title": "Portrait of a Bearded Man",
+   "artist": "Mårten Eskil Winge",
+   "lum": 0.149
+  },
+  {
+   "key": "fng:390815",
+   "title": "Calligrapher Lieven Willemsz van Coppenol, copy after Rembrandt",
+   "artist": "Hanna Rönnberg",
+   "lum": 0.13
+  },
+  {
+   "key": "fng:392955",
+   "title": "Mother's Sorrow",
+   "artist": "Dagmar Furuhjelm",
+   "lum": 0.236
+  },
+  {
+   "key": "fng:393772",
+   "title": "Seated Lady",
+   "artist": "Valle Rosenberg",
+   "lum": 0.248
+  },
+  {
+   "key": "fng:395163",
+   "title": "Portrait of the Artist's Mother",
+   "artist": "Eero Snellman",
+   "lum": 0.174
+  },
+  {
+   "key": "fng:395949",
+   "title": "Portrait of Victoria Åberg",
+   "artist": "Bertha Froriep",
+   "lum": 0.125
+  },
+  {
+   "key": "fng:396237",
+   "title": "Young Girl, copy after Rembrandt",
+   "artist": "Widolfa von Engeström-Ahrenberg",
+   "lum": 0.22
+  },
+  {
+   "key": "fng:397388",
+   "title": "Portrait of the Sculptor C. E. Sjöstrand",
+   "artist": "Hilda Eloise Granstedt",
+   "lum": 0.166
+  },
+  {
+   "key": "fng:397892",
+   "title": "Portrait of a Young Man",
+   "artist": "Ferdinand von Wright",
+   "lum": 0.219
+  },
+  {
+   "key": "fng:397902",
+   "title": "Portrait of T.K. Sallinen",
+   "artist": "Jalmari Ruokokoski",
+   "lum": 0.237
+  },
+  {
+   "key": "fng:398952",
+   "title": "Portrait of Journalist August Schauman",
+   "artist": "Gunnar Berndtson",
+   "lum": 0.098
+  },
+  {
+   "key": "fng:398996",
+   "title": "Portrait of Otto Manninen",
+   "artist": "Wilho Sjöström",
+   "lum": 0.159
+  },
+  {
+   "key": "fng:399066",
+   "title": "Portrait of the Artist's Daughter, Nadezhda (Nadya) Repina",
+   "artist": "Ilja Repin",
+   "lum": 0.169
+  },
+  {
+   "key": "fng:399246",
+   "title": "Portrait of Juhani Aho",
+   "artist": "Venny Soldan-Brofeldt",
+   "lum": 0.23
+  },
+  {
+   "key": "fng:402688",
+   "title": "Woman Sitting (the Artist's Wife)",
+   "artist": "William Lönnberg",
+   "lum": 0.242
+  },
+  {
+   "key": "fng:403280",
+   "title": "Portrait of a Jewish Man",
+   "artist": "Gunnar Berndtson",
+   "lum": 0.145
+  },
+  {
+   "key": "fng:403441",
+   "title": "Portrait of Johannes Takanen",
+   "artist": "Carl Thomsen",
+   "lum": 0.073
+  },
+  {
+   "key": "fng:403864",
+   "title": "",
+   "artist": "Antti Favén",
+   "lum": 0.158
+  },
+  {
+   "key": "fng:404260",
+   "title": "Grandmother, Portrait of Mrs. Augusta Frosterus (née Norling)",
+   "artist": "Hanna Frosterus-Segerstråle",
+   "lum": 0.227
+  },
+  {
+   "key": "fng:408431",
+   "title": "Self-Portrait",
+   "artist": "Alvar Cawén",
+   "lum": 0.223
+  },
+  {
+   "key": "fng:409380",
+   "title": "Portrait of Hjalmar Munsterhjelm",
+   "artist": "Olav Rusti",
+   "lum": 0.079
+  },
+  {
+   "key": "fng:410226",
+   "title": "Portrait of Baron Delort de Gléon",
+   "artist": "Gunnar Berndtson",
+   "lum": 0.162
+  },
+  {
+   "key": "fng:411226",
+   "title": "Portrait of Albert Edelfelt",
+   "artist": "Pascal-Adolphe-Jean Dagnan-Bouveret",
+   "lum": 0.189
+  },
+  {
+   "key": "fng:416554",
+   "title": "Self-Portrait",
+   "artist": "Sigfrid August Keinänen",
+   "lum": 0.204
+  },
+  {
+   "key": "fng:429434",
+   "title": "Portrait of a Woman",
+   "artist": "Arvid Liljelund",
+   "lum": 0.145
+  },
+  {
+   "key": "fng:429449",
+   "title": "Portrait of The Poet Elina Vaara",
+   "artist": "Yrjö Ollila",
+   "lum": 0.249
+  },
+  {
+   "key": "fng:431979",
+   "title": "Self-Portrait in Electric Light",
+   "artist": "Oscar Parviainen",
+   "lum": 0.17
+  },
+  {
+   "key": "fng:432180",
+   "title": "Portrait of a Lady",
+   "artist": "Gunnar Berndtson",
+   "lum": 0.116
+  },
+  {
+   "key": "fng:432939",
+   "title": "Erik XIV and Karin Månsdotter",
+   "artist": "Erik Johan Löfgren",
+   "lum": 0.175
+  },
+  {
+   "key": "fng:439225",
+   "title": "Self-Portrait",
+   "artist": "Santeri Salokivi",
+   "lum": 0.241
+  },
+  {
+   "key": "fng:439580",
+   "title": "Self-Portrait",
+   "artist": "Juho Forsell",
+   "lum": 0.181
+  },
+  {
+   "key": "fng:440892",
+   "title": "Portrait of Professor Armas Lindgren",
+   "artist": "Ester Helenius",
+   "lum": 0.234
+  },
+  {
+   "key": "fng:442820",
+   "title": "Portrait of the Artist's Wife",
+   "artist": "Juho Forsell",
+   "lum": 0.064
+  },
+  {
+   "key": "fng:445683",
+   "title": "Portrait of Sigrid af Forselles",
+   "artist": "Venny Soldan-Brofeldt",
+   "lum": 0.243
+  },
+  {
+   "key": "fng:451002",
+   "title": "Self-Portrait",
+   "artist": "Dora Wahlroos",
+   "lum": 0.12
+  },
+  {
+   "key": "fng:453056",
+   "title": "Portrait of Hilja Ramstedt",
+   "artist": "William Lönnberg",
+   "lum": 0.199
+  },
+  {
+   "key": "fng:454267",
+   "title": "Self-Portrait",
+   "artist": "Ilmari Aalto",
+   "lum": 0.237
+  },
+  {
+   "key": "fng:460296",
+   "title": "Self-Portrait",
+   "artist": "William Lönnberg",
+   "lum": 0.247
+  },
+  {
+   "key": "fng:460605",
+   "title": "Portrait of the Author Emil Elenius",
+   "artist": "Verner Thomé",
+   "lum": 0.159
+  },
+  {
+   "key": "fng:469274",
+   "title": "Man in Fur Cap",
+   "artist": "Ilmari Aalto",
+   "lum": 0.197
+  },
+  {
+   "key": "fng:471334",
+   "title": "Portrait of the Industrialist August Keirkner",
+   "artist": "Wilho Sjöström",
+   "lum": 0.073
+  },
+  {
+   "key": "fng:475255",
+   "title": "Self-Portrait",
+   "artist": "Henry Ericsson",
+   "lum": 0.239
+  },
+  {
+   "key": "fng:476391",
+   "title": "Self-Portrait",
+   "artist": "Einari Wehmas",
+   "lum": 0.213
+  },
+  {
+   "key": "fng:477845",
+   "title": "Portrait of the Artist S. Wettenhovi-Aspa",
+   "artist": "Antti Favén",
+   "lum": 0.241
+  },
+  {
+   "key": "fng:478828",
+   "title": "The Violin Player",
+   "artist": "Alvar Cawén",
+   "lum": 0.213
+  },
+  {
+   "key": "fng:493863",
+   "title": "Portrait of a Woman",
+   "artist": "Eero Snellman",
+   "lum": 0.136
+  },
+  {
+   "key": "fng:494130",
+   "title": "Self-Portrait",
+   "artist": "Ilmari Aalto",
+   "lum": 0.159
+  },
+  {
+   "key": "fng:498075",
+   "title": "Portrait of a Woman (Mrs. Lönngren)",
+   "artist": "Ilmari Aalto",
+   "lum": 0.171
+  },
+  {
+   "key": "fng:498851",
+   "title": "Head of a Woman",
+   "artist": "Alvar Cawén",
+   "lum": 0.208
+  },
+  {
+   "key": "fng:500979",
+   "title": "Portrait (Painter Erkki Kosonen)",
+   "artist": "Otto Mäkilä",
+   "lum": 0.181
+  },
+  {
+   "key": "fng:502347",
+   "title": "Self-Portrait",
+   "artist": "William Lönnberg",
+   "lum": 0.235
+  },
+  {
+   "key": "fng:502855",
+   "title": "Still-Life with the Self-Portrait",
+   "artist": "Väinö Kunnas",
+   "lum": 0.163
+  },
+  {
+   "key": "fng:526938",
+   "title": "Portrait of Andrei Igelström",
+   "artist": "Karl Vikentjevitš Lemoh",
+   "lum": 0.173
+  },
+  {
+   "key": "fng:550083",
+   "title": "Portrait of Ester Wegelius (née Tawaststjerna)",
+   "artist": "Oskari Paatela",
+   "lum": 0.162
+  },
+  {
+   "key": "fng:611390",
+   "title": "Opera singer Ida Basilier-Magelsen's portrait as Philine in Ambroise Thomas' opera Mignon",
+   "artist": "Maria Wiik",
+   "lum": 0.14
+  },
+  {
+   "key": "fng:612980",
+   "title": "Blind ; The Blind Old Woman",
+   "artist": "Juho Rissanen",
+   "lum": 0.22
+  },
+  {
+   "key": "fng:615465",
+   "title": "Self-Portrait",
+   "artist": "Arvid Liljelund",
+   "lum": 0.142
+  },
+  {
+   "key": "fng:621727",
+   "title": "Portrait of Gustaf Wilhelm Finnberg",
+   "artist": "Fredrik Ahlstedt",
+   "lum": 0.214
+  },
+  {
+   "key": "fng:621783",
+   "title": "Portrait of B. O. Schauman",
+   "artist": "Maria Wiik",
+   "lum": 0.16
+  },
+  {
+   "key": "fng:622711",
+   "title": "Mother with Her Sleeping Child",
+   "artist": "Alexandra Frosterus-Såltin",
+   "lum": 0.175
+  },
+  {
+   "key": "fng:624133",
+   "title": "Self-Portrait",
+   "artist": "Berndt Abraham Godenhjelm",
+   "lum": 0.172
+  },
+  {
+   "key": "fng:625863",
+   "title": "Mother Reading to Her Sick Child",
+   "artist": "Ida Silfverberg",
+   "lum": 0.169
+  },
+  {
+   "key": "fng:1675726",
+   "title": "",
+   "artist": "Erik Johan Löfgren",
+   "lum": 0.138
+  },
+  {
+   "key": "fng:3165110",
+   "title": "Anna Kjöllerfeldt, nee Sinebrychoff (1854–1943)",
+   "artist": "Elisabeth Keyser",
+   "lum": 0.151
+  },
+  {
+   "key": "fng:3165113",
+   "title": "",
+   "artist": "Elisabeth Keyser",
+   "lum": 0.186
+  },
+  {
+   "key": "fng:5630727",
+   "title": "Bedouin",
+   "artist": "Maria Martinau",
+   "lum": 0.222
+  },
+  {
+   "key": "nga:1097",
+   "title": "Leslie Pease Barnum",
+   "artist": "Frank Duveneck",
+   "lum": 0.133
+  },
+  {
+   "key": "nga:1098",
+   "title": "William Gedney Bunce",
+   "artist": "Frank Duveneck",
+   "lum": 0.158
+  },
+  {
+   "key": "nga:34055",
+   "title": "Henry Theodore Tuckerman",
+   "artist": "Daniel Huntington",
+   "lum": 0.197
+  },
+  {
+   "key": "nga:34057",
+   "title": "Charles Loring Elliott",
+   "artist": "American 19th Century",
+   "lum": 0.181
+  },
+  {
+   "key": "nga:34065",
+   "title": "Abraham Lincoln",
+   "artist": "Douglas Volk",
+   "lum": 0.153
+  },
+  {
+   "key": "nga:34111",
+   "title": "Joseph Wesley Harper, Jr.",
+   "artist": "Eastman Johnson",
+   "lum": 0.164
+  },
+  {
+   "key": "nga:34115",
+   "title": "Abraham Lincoln",
+   "artist": "American 19th Century",
+   "lum": 0.134
+  },
+  {
+   "key": "nga:34116",
+   "title": "William Morris Hunt",
+   "artist": "Thomas Bayley Lawson",
+   "lum": 0.148
+  },
+  {
+   "key": "nga:34159",
+   "title": "John Philip Kemble",
+   "artist": "Thomas Sully, after Gilbert Stuart",
+   "lum": 0.246
+  },
+  {
+   "key": "nga:34163",
+   "title": "Portrait of an Old Man",
+   "artist": "Alphonse Legros",
+   "lum": 0.166
+  },
+  {
+   "key": "nga:43673",
+   "title": "Louis Husson",
+   "artist": "Thomas Eakins",
+   "lum": 0.148
+  },
+  {
+   "key": "nga:46476",
+   "title": "Simon Hayem",
+   "artist": "Jules Bastien-Lepage",
+   "lum": 0.221
+  },
+  {
+   "key": "nga:46508",
+   "title": "Madame Uhring",
+   "artist": "Jean-Jacques Henner",
+   "lum": 0.154
+  },
+  {
+   "key": "nga:46539",
+   "title": "Madame G",
+   "artist": "American or British 19th or 20th Century",
+   "lum": 0.244
+  },
+  {
+   "key": "nga:46556",
+   "title": "Edouard Blau",
+   "artist": "Frédéric Bazille",
+   "lum": 0.128
+  },
+  {
+   "key": "nga:46592",
+   "title": "Hippolyte Lavoignat",
+   "artist": "Follower of Honoré Daumier",
+   "lum": 0.199
+  },
+  {
+   "key": "nga:46684",
+   "title": "Mademoiselle Sicot",
+   "artist": "Auguste Renoir",
+   "lum": 0.222
+  },
+  {
+   "key": "nga:56702",
+   "title": "Lady with a Lute",
+   "artist": "Thomas Wilmer Dewing",
+   "lum": 0.121
+  },
+  {
+   "key": "nga:66400",
+   "title": "Edmond Maître",
+   "artist": "Frédéric Bazille",
+   "lum": 0.219
+  },
+  {
+   "key": "nga:69591",
+   "title": "George Cotton Smith",
+   "artist": "Robert Henri",
+   "lum": 0.125
+  },
+  {
+   "key": "nga:93000",
+   "title": "Self-Portrait, Aged 21",
+   "artist": "Edouard Vuillard",
+   "lum": 0.217
+  },
+  {
+   "key": "nga:166453",
+   "title": "Abraham Lincoln",
+   "artist": "George Peter Alexander Healy",
+   "lum": 0.179
+  },
+  {
+   "key": "nga:177789",
+   "title": "Thomas Jefferson",
+   "artist": "George Peter Alexander Healy, after Gilbert Stuart",
+   "lum": 0.129
+  },
+  {
+   "key": "nga:195628",
+   "title": "Harriet Hubbard Ayer",
+   "artist": "Eastman Johnson",
+   "lum": 0.24
+  },
+  {
+   "key": "nga:195727",
+   "title": "Self-Portrait",
+   "artist": "William Merritt Chase",
+   "lum": 0.142
+  },
+  {
+   "key": "nga:213413",
+   "title": "Henry White",
+   "artist": "Léon Bonnat",
+   "lum": 0.163
+  },
+  {
+   "key": "nga:231331",
+   "title": "Edouard Delessert",
+   "artist": "Jean-Léon Gérôme",
+   "lum": 0.234
+  },
+  {
+   "key": "nms:2db72b178fea39bd",
+   "title": "Hildegard Thorell, the Artist",
+   "artist": "Bertha Wegmann",
+   "lum": 0.179
+  },
+  {
+   "key": "nms:4ffa07dbbf99d401",
+   "title": "David and Saul",
+   "artist": "Julius Kronberg",
+   "lum": 0.161
+  },
+  {
+   "key": "nms:7f38420994363cbf",
+   "title": "Lady in Mourning",
+   "artist": "Hildegard Thorell",
+   "lum": 0.156
+  },
+  {
+   "key": "nms:89f54e9c2ba90ed9",
+   "title": "Erik XIV, King of Sweden",
+   "artist": "Georg von Rosen",
+   "lum": 0.24
+  },
+  {
+   "key": "nms:606fd324bf7d919b",
+   "title": "Lady in a Train Window",
+   "artist": "Anna Nordgren",
+   "lum": 0.246
+  },
+  {
+   "key": "nms:6050abf9b434e0a8",
+   "title": "Självporträtt",
+   "artist": "Olof Sager-Nelson",
+   "lum": 0.205
+  },
+  {
+   "key": "nms:9684e2e4fe17ffe0",
+   "title": "Björn Ahlgrensson, Artist",
+   "artist": "Aron Gerle",
+   "lum": 0.189
+  },
+  {
+   "key": "nms:a4c6a19289115d2e",
+   "title": "Selfportrait",
+   "artist": "Amanda Sidvall",
+   "lum": 0.222
+  },
+  {
+   "key": "nms:b20ca28febfbb376",
+   "title": "Edvard Grieg accompanying his Wife",
+   "artist": "Peder Severin Krøyer",
+   "lum": 0.217
+  },
+  {
+   "key": "nms:d7e30acc7c7f0624",
+   "title": "Jane Cederlund",
+   "artist": "Amalia Lindegren",
+   "lum": 0.177
+  },
+  {
+   "key": "nms:f09dc54df1881e1d",
+   "title": "Vilhelm Stenhammar, 1871-1927",
+   "artist": "Robert Thegerström",
+   "lum": 0.167
+  },
+  {
+   "key": "rkm:SK-A-1489",
+   "title": "Self Portrait",
+   "artist": "Hendrik Hollander Cz.",
+   "lum": 0.223
+  },
+  {
+   "key": "rkm:SK-A-2739",
+   "title": "Johannes Gijsbert Vogel (1828-1915), Painter",
+   "artist": "Gijsbertus Derksen",
+   "lum": 0.201
+  },
+  {
+   "key": "rkm:SK-A-2785",
+   "title": "Mrs A.J. Zubli-Maschhaupt",
+   "artist": "Pieter de Josselin de Jong",
+   "lum": 0.239
+  },
+  {
+   "key": "rkm:SK-A-2788",
+   "title": "Dr J L Dusseau",
+   "artist": "Thérèse Schwartze",
+   "lum": 0.236
+  },
+  {
+   "key": "rkm:SK-A-2789",
+   "title": "Willem Steelink II (1856-1928). Graficus",
+   "artist": "Nicolaas van der Waay",
+   "lum": 0.237
+  },
+  {
+   "key": "rkm:SK-A-2807",
+   "title": "Portrait of Jacques Fabrice Herman Perk (1859-1881)",
+   "artist": "Johan Heinrich Neuman",
+   "lum": 0.221
+  },
+  {
+   "key": "rkm:SK-A-2818",
+   "title": "Self-Portrait",
+   "artist": "Johann Georg Schwartze",
+   "lum": 0.159
+  },
+  {
+   "key": "rkm:SK-A-2819",
+   "title": "Portrait of Thérèse Schwartze, the Artist's Daughter, at 16 years of age",
+   "artist": "Johann Georg Schwartze",
+   "lum": 0.206
+  },
+  {
+   "key": "rkm:SK-A-2955",
+   "title": "Portret van een meisje",
+   "artist": "Willem Witsen",
+   "lum": 0.169
+  },
+  {
+   "key": "rkm:SK-A-3807",
+   "title": "James Loudon (1824-1900). Gouverneur-generaal (1871-75)",
+   "artist": "Andries van den Berg",
+   "lum": 0.146
+  },
+  {
+   "key": "rkm:SK-A-4676",
+   "title": "Portrait of Johannes Cornelis van Pappelendam (1810-1884). Artist and Art Dealer. Superintendent of the Van der Hoop Museum",
+   "artist": "Johan Heinrich Neuman",
+   "lum": 0.17
+  },
+  {
+   "key": "rkm:SK-A-4700",
+   "title": "Portrait of Lizzy Ansingh (1875-1959)",
+   "artist": "Thérèse Schwartze",
+   "lum": 0.139
+  },
+  {
+   "key": "rkm:SK-A-4752",
+   "title": "Portrait of Pieter Hendrik van Gelder (1822-1883)",
+   "artist": "Johannes Ephraim",
+   "lum": 0.153
+  },
+  {
+   "key": "rkm:SK-A-4862",
+   "title": "Portrait of Cornelia, Clara and Johanna Veth",
+   "artist": "Jan Veth",
+   "lum": 0.127
+  },
+  {
+   "key": "rkm:SK-A-4944",
+   "title": "Portret van de beeldhouwer Pier Pander (1864-1919)",
+   "artist": "Thomas Cool",
+   "lum": 0.208
+  },
+  {
+   "key": "rkm:SK-A-4948",
+   "title": "Portret van Dr. P.J.H. Cuypers (1827-1921)",
+   "artist": "Thérèse Schwartze",
+   "lum": 0.189
+  },
+  {
+   "key": "rkm:SK-A-4949",
+   "title": "Portrait of the Art Dealer E.J. van Wisselingh",
+   "artist": "Marinus van der Maarel",
+   "lum": 0.143
+  },
+  {
+   "key": "rkm:SK-A-4982",
+   "title": "Portret van Pieter Stortenbeker (1828-1898), kunstschilder",
+   "artist": "Pieter de Josselin de Jong",
+   "lum": 0.168
+  },
+  {
+   "key": "rkm:SK-A-4983",
+   "title": "Portret van J.A.B. Stroebel (1821-1905), kunstschilder",
+   "artist": "Pieter de Josselin de Jong",
+   "lum": 0.104
+  },
+  {
+   "key": "rkm:SK-A-5038",
+   "title": "Portrait of Jacob de Vos Jacobszoon (1803-1878). Amsterdam Art Collector and Owner of the Historical Gallery De Vos",
+   "artist": "Nicolaas Pieneman",
+   "lum": 0.204
+  },
+  {
+   "key": "smk:KMS889",
+   "title": "Christian II",
+   "artist": "Poul Hagelstein",
+   "lum": 0.216
+  },
+  {
+   "key": "smk:KMS890",
+   "title": "Elisabeth, Christian II's dronning",
+   "artist": "Poul Hagelstein",
+   "lum": 0.236
+  },
+  {
+   "key": "smk:KMS1319",
+   "title": "Adam and Eve",
+   "artist": "Julius Paulsen",
+   "lum": 0.163
+  },
+  {
+   "key": "smk:KMS1674",
+   "title": "The Artist's Wife and Daughter",
+   "artist": "L.A. Ring",
+   "lum": 0.208
+  },
+  {
+   "key": "smk:KMS1691",
+   "title": "The Artist's Wife Reading",
+   "artist": "Michael Ancher",
+   "lum": 0.201
+  },
+  {
+   "key": "smk:KMS3178",
+   "title": "Lady Macbeth. Study",
+   "artist": "Kristian Zahrtmann",
+   "lum": 0.241
+  },
+  {
+   "key": "smk:kms7962",
+   "title": "Christian II og Dyveke",
+   "artist": "Vilhelm Rosenstand",
+   "lum": 0.171
+  }
+ ]
+}
