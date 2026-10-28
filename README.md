@@ -28,4 +28,4 @@ The curator needs `ADMIN_PASSWORD`: in `.dev.vars` locally, `wrangler secret put
 
 ---
 
-Designed and built by Pablo Pérez — [@pablopsoto](https://www.instagram.com/pablopsoto/)
+Designed and built by Pablo Pérez — [pablopsoto.dev](https://pablopsoto.dev)
