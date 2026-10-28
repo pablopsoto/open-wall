@@ -2,7 +2,7 @@
 
 Historic public-domain art on one endless wall: about 10,000 paintings, prints and drawings from 1860–1930, drawn by the GPU. Re-hang the collection by colour or by time, filter by medium or artist, and step into any work. The room takes on its colour.
 
-**Live:** https://open-wall.pablopsoto.workers.dev
+**Live:** https://open-wall.pablopsoto.dev
 
 ## The collection
 

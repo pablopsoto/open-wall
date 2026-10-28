@@ -2,6 +2,11 @@
   "$schema": "./node_modules/wrangler/config-schema.json",
   "name": "open-wall",
   "main": "worker/index.ts",
+  // Served on the personal domain; the workers.dev address keeps working too.
+  "workers_dev": true,
+  "routes": [
+    { "pattern": "open-wall.pablopsoto.dev", "custom_domain": true }
+  ],
   "compatibility_date": "2026-10-01",
   "assets": {
     "binding": "ASSETS",
